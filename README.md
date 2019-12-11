@@ -30,6 +30,10 @@ This theme is pretty basic and covers all of the essentials. All you have to do 
 - nice code highlighting thanks to [**PrismJS**](https://prismjs.com)
 - fully responsive
 
+## Additions to shindakun/theme-hello version
+
+- Added [Glightbox](https://biati-digital.github.io/glightbox/) and code to have it work on [micro.blog](https://micro.blog) hosted sites. The JavaScript may be a bit brittle and may not work as expected in posts that have multiple images.
+
 #### Built-in shortcodes
 
 - **`image`** (prop required: **`src`**; props optional: **`alt`**, **`position`** (**left** is default | center | right), **`style`**)

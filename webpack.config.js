@@ -18,6 +18,7 @@ module.exports = {
       join("source", "js", "index.js"),
       join("source", "js", "menu.js"),
       join("source", "js", "theme.js"),
+      join("source", "js", "lightbox.js"),
     ],
     "prism.js": join("source", "js", "prism.js"),
     "style.css": join("source", "css", "style.css"),
